@@ -9,4 +9,4 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 - Install [Git for Windows](https://gitforwindows.org/)
 #### To Run & Install This Use:
 ```
-git clone https://github.com/nrdrch/powah.git $Env:TEMP\powah | cmd.exe /c $Env:TEMP\powah\init.bat
+git clone https://github.com/nrdrch/cis.git $Env:TEMP\cis | cmd.exe /c $Env:TEMP\cis\init.bat
