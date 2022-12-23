@@ -1,7 +1,7 @@
 @ECHO OFF
 title CIS
 CLS
-:: Powershell -executionpolicy remotesigned -File %temp%\cis\CIS.ps1
+Powershell -executionpolicy remotesigned -File %temp%\cis\CIS.ps1
 :MENU
 CLS
 SET INPUT=
